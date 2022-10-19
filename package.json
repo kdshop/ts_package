@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "ts_package",
   "version": "1.0.0",
   "description": "",
   "types": "./dist/index.d.ts",
